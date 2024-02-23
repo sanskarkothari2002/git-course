@@ -1,4 +1,4 @@
-#Git Interview Questions and Answers
+#git Interview Questions and Answers
 
 Welcome to the Git Interview Questions and Answers repository! This repository aims to provide a comprehensive collection of common interview questions related to Git along with detailed answers. Whether you're preparing for a job interview or just looking to enhance your Git knowledge, you'll find valuable resources here.
 
